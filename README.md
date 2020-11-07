@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+In order to avoid the side effects of changing username, I deleted and created a new account with the same name.
+
 <!--
 **JimHeisenberg/JimHeisenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
